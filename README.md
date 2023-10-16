@@ -2,9 +2,9 @@
 
 ## 1 - Descrição dos Exercícios
 
-1. [Description]()
-2. [Description]()
-3. [Description]()
+1. [Strongly connected components](https://www.codewars.com/kata/5f74a3b1acfbb20033e5b7d9)
+2. [Count the connected components](https://www.codewars.com/kata/55eaf138c1f4e9eef1000047)
+3. [Simple min heap implementation](https://www.codewars.com/kata/53a71e153d87ddcb34000d20)
 4. [Description]()
 
 
